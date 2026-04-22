@@ -4,6 +4,10 @@ An open-source smartwatch powered by the nRF52840 with an e-paper display, desig
 
 <img width="835" height="587" alt="image" src="https://github.com/user-attachments/assets/1c75478e-1384-4b33-8458-29849f2b9f8a" />
 
+## Block Diagram
+
+<img width="498" height="691" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/6b321f31-c036-48bd-bcfa-825a59f1f5ad" />
+
 
 ## BOM (Bill Of Materials) 
 | Qty | Component | Value / Part | Package | Notes |
